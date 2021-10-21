@@ -1,0 +1,22 @@
+.navbar-nav{
+  font-family:'Oxygen',sans-serif;
+  text-decoration:white;
+  font-weight: bold;
+}
+#nav-bar
+{
+	background-color:#dcd0ff;
+	position:static;
+	top:0;
+	z-index:10;
+}
+.nav-link:hover {
+	background-image: url('bank.png');
+}
+.nav-link {
+	font-family:'Oxygen',sans-serif;
+}
+a{
+	color:white;
+}
+
